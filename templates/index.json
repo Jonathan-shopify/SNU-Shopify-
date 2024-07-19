@@ -1,0 +1,395 @@
+{
+  "sections": {
+    "icon_with_text_autoplay_nQ9ma6": {
+      "type": "icon-with-text-autoplay",
+      "blocks": {
+        "slide_GBNxkF": {
+          "type": "slide",
+          "settings": {
+            "icon": "fas fa-truck",
+            "text": "Fast Delivery",
+            "mob-text": "We aim to deliver as fast as possible"
+          }
+        },
+        "slide_3bnCR6": {
+          "type": "slide",
+          "settings": {
+            "icon": "fas fa-box-open",
+            "text": "DISCREET PACKAGING",
+            "mob-text": "Our packages are packed without visible branding"
+          }
+        },
+        "slide_FFmx8D": {
+          "type": "slide",
+          "settings": {
+            "icon": "fas fa-credit-card",
+            "text": "Secure Payment",
+            "mob-text": "Pay safe and secure with our payment gateway"
+          }
+        },
+        "slide_4HUJ6U": {
+          "type": "slide",
+          "settings": {
+            "icon": "fas fa-award",
+            "text": "HIGH CUSTOMER RATING",
+            "mob-text": "Exceptional customer service, and fast response!"
+          }
+        }
+      },
+      "block_order": [
+        "slide_GBNxkF",
+        "slide_3bnCR6",
+        "slide_FFmx8D",
+        "slide_4HUJ6U"
+      ],
+      "settings": {}
+    },
+    "icon_with_texts_qnL7r7": {
+      "type": "icon-with-texts",
+      "blocks": {
+        "column_diTMAh": {
+          "type": "column",
+          "settings": {
+            "custom_liquid": "<i class=\"fas fa-truck\"><\/i>",
+            "title": "",
+            "text": "<p>FAST DELIVERY<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_BehQF6": {
+          "type": "column",
+          "settings": {
+            "custom_liquid": "<i class=\"fas fa-box-open\"><\/i>",
+            "title": "",
+            "text": "<p>DISCREET PACKAGING<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_gkCEDj": {
+          "type": "column",
+          "settings": {
+            "custom_liquid": "<i class=\"fas fa-credit-card\"><\/i>",
+            "title": "",
+            "text": "<p>SECURE PAYMENT<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_FrtcKk": {
+          "type": "column",
+          "settings": {
+            "custom_liquid": "<i class=\"fas fa-award\"><\/i>",
+            "title": "",
+            "text": "<p>HIGH CUSTOMER RATING<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_diTMAh",
+        "column_BehQF6",
+        "column_gkCEDj",
+        "column_FrtcKk"
+      ],
+      "settings": {
+        "custom-class": "first-section",
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 4,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "auto_play_video_74VWdG": {
+      "type": "auto-play-video",
+      "settings": {
+        "heading": "",
+        "fullwidth": true,
+        "autoplay": true,
+        "controller": true,
+        "self_hosted_video": "shopify:\/\/files\/videos\/VELO (1)_9eefba98-2b1f-4d0c-ba46-0734684ef192.mp4"
+      }
+    },
+    "custom_liquid_QGfzdq": {
+      "type": "custom-liquid",
+      "disabled": true,
+      "settings": {
+        "custom_liquid": "<style>\nvideo {\nwidth: 100%;\nheight: auto;\ndisplay: block;\nmargin: 0 auto;\n}\n<\/style>\n\n<video muted autoplay playsinline loop>\n    <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/1b2ad260b4ed4cb4ba8fa34232e0f251.mp4\"\n                  type=\"video\/mp4\">\n    <source src=\"https:\/\/cdn.shopify.com\/videos\/c\/o\/v\/1b2ad260b4ed4cb4ba8fa34232e0f251.mp4\" type=\"video\/mp4\">\n<\/video>",
+        "color_scheme": "",
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "video_iE6KYm": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": true,
+        "video": "shopify:\/\/files\/videos\/VELO (1).mp4",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "homepage_orderbar_N8F9dN": {
+      "type": "homepage-orderbar",
+      "settings": {
+        "title": "",
+        "background_style": "none"
+      }
+    },
+    "icon_with_texts_tPaJad": {
+      "type": "icon-with-texts",
+      "blocks": {
+        "column_DKbeVH": {
+          "type": "column",
+          "settings": {
+            "custom_liquid": "<i class=\"fa-brands fa-envira\"><\/i>",
+            "title": "MINT",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections"
+          }
+        },
+        "column_M3nhWL": {
+          "type": "column",
+          "settings": {
+            "custom_liquid": "<i class=\"fa-solid fa-apple-whole\"><\/i>",
+            "title": "APPLE",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections"
+          }
+        },
+        "column_QLtfhL": {
+          "type": "column",
+          "settings": {
+            "custom_liquid": "<i class=\"fa-solid fa-watermelon-slice\"><\/i>",
+            "title": "WATERMELON",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections"
+          }
+        },
+        "column_bTEtqJ": {
+          "type": "column",
+          "settings": {
+            "custom_liquid": "<i class=\"fa-solid fa-cup-straw-swoosh\"><\/i>",
+            "title": "ENERGY DRINK",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections"
+          }
+        },
+        "column_AGd9mX": {
+          "type": "column",
+          "settings": {
+            "custom_liquid": "<i class=\"fa-solid fa-grapes\"><\/i>",
+            "title": "BERRIES",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections"
+          }
+        },
+        "column_PcrUkP": {
+          "type": "column",
+          "settings": {
+            "custom_liquid": "<i class=\"fa-regular fa-pineapple\"><\/i>",
+            "title": "PINEAPPLE",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections"
+          }
+        },
+        "column_rLarAj": {
+          "type": "column",
+          "settings": {
+            "custom_liquid": "<i class=\"fa-regular fa-blueberries\"><\/i>",
+            "title": "BLUEBERRY",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections"
+          }
+        },
+        "column_EYnhE6": {
+          "type": "column",
+          "settings": {
+            "custom_liquid": "<i class=\"fa-solid fa-lemon\"><\/i>",
+            "title": "LIME",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections"
+          }
+        },
+        "column_DKQRHy": {
+          "type": "column",
+          "settings": {
+            "custom_liquid": "<i class=\"fa-solid fa-candy\"><\/i>",
+            "title": "BUBBLEGUM",
+            "text": "",
+            "link_label": "",
+            "link": "shopify:\/\/collections"
+          }
+        }
+      },
+      "block_order": [
+        "column_DKbeVH",
+        "column_M3nhWL",
+        "column_QLtfhL",
+        "column_bTEtqJ",
+        "column_AGd9mX",
+        "column_PcrUkP",
+        "column_rLarAj",
+        "column_EYnhE6",
+        "column_DKQRHy"
+      ],
+      "settings": {
+        "custom-class": "second-column",
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 10,
+        "column_alignment": "left",
+        "background_style": "none",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_J6Nr9n": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "VELO PRODUCTS",
+        "Sub-heading-text": "MORE VELO PRODUCTS",
+        "Sub-heading-link": "shopify:\/\/collections\/velo",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "velo",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-3",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "standard",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "featured_collection_jhnYac": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "NOR PRODUCTS",
+        "Sub-heading-text": "MORE NOR PRODUCTS",
+        "Sub-heading-link": "shopify:\/\/collections\/nor",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "nor",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": true,
+        "show_view_all": false,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "scheme-1",
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": true,
+        "show_vendor": false,
+        "show_rating": false,
+        "quick_add": "standard",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "rich_text_8EDKBy": {
+      "type": "rich-text",
+      "blocks": {
+        "text_9d7C8B": {
+          "type": "text",
+          "settings": {
+            "text": "<h2>What Is Nicotine Pouch and Snus<\/h2><p>Snus is a product which originated from Sweden. Small pouches can be placed between your gum and the upper lip. As snus does not require spitting, it is much more discreet than tobacco. Snus gradually releases nicotine to provide a consistent and pleasing experience, without smoke or ash.<\/p><p>While nicotine pouches look similar to tobacco snus they don’t. It is a small white pouch filled with flavoring and nicotine. These pouches are similar to snus and can be used by placing the pouch between your gums. Nicotine can be enjoyed without smoke or smell. You can choose from a wide range of flavors, strengths, and sizes to satisfy your needs.<\/p><h2>Affordable Snus Options to Use for All Occasions<\/h2><p>SnusMart believes everyone should have affordable access to high-quality snus. We have cheap snus available that is not compromising on flavor. No matter if you are looking for something to consume on a daily basis or a special treat for a date night, we have the right snus at a price you can afford. SnusMart carries a range of snus that will suit any taste.<\/p><h2>SnusMart’s range of well-known Brands<\/h2><p>SnusMart takes great pride in its extensive selection of well known snus & nicotine pouch brands. Skruf is one of the many renowned names in our list of brands. Other renowned names include Gritt, Killa, ACE and Velo. We ensure our customers receive the highest quality products by partnering with these reputable brands.<\/p><h2>Why Use SNUS?<\/h2><p>Snus can be a good alternative to smoking for those seeking a nicotine experience. First, snus offers a discreet and convenient way to consume nicotine, without attracting unwanted attention or emitting unpleasant odors. Additionally, because snus doesn’t require you to spit or chew, it is less harmful for the teeth and gums. In addition, snus can be used in situations where smoking is forbidden. <\/p><h2>How To Use Snus?<\/h2><p>Snus is an easy and straightforward product to use. Begin by choosing a portion size, strength and flavor that fits your taste. Open the snus tin and take out some snus. Place the portion underneath your upper lip. It is best to place it on one side. As you keep the snus in your mouth, nicotine and flavors slowly begin to release, giving a lasting and satisfying sensation. You can keep it in place up to an entire hour depending on your taste. The used portion can be removed and disposed of properly once you have finished. Some snus tins come with a compartment in which you can keep the used snus until it’s time to throw it away.<\/p><h2>Buy Snus from SnusMart.com<\/h2><p>SnusMart.com  offers the most convenient, easy and comfortable way to order snus. You can simply browse through our list of brands such as VELO, ACE, NOR, XTRIME, KILLA  and many more and order the snus which suits perfectly to your taste. What makes us unique is our affordable pricing, quick and reliable shipping along with excellent customer care. SnusMart is committed to providing the highest-quality products at the lowest possible price.<\/p><h2>About SnusMart<\/h2><p>SnusMart.com  is the best place to buy snus. We offer a wide selection of snus products from top snus brands. Our wide range of top-quality snus brands will ensure that you find the right match to suit your tastes and preferences. SnusMart.com offers a wide variety of snus brands, including VELO, Skruf, ZYN and Lyft. You can explore each brand to find one that suits you best. Our comprehensive range of snus products includes a variety of flavors and strengths for every taste.<\/p><p>SnusMart.com is committed to providing only the highest quality snus. Why wait? Discover why SnusMart.com is the preferred source of snus for so many.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_9d7C8B"
+      ],
+      "settings": {
+        "custom-class": "text-for-mob",
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
+    "17191140418da6f007": {
+      "type": "apps",
+      "blocks": {
+        "klaviyo_email_marketing_sms_form_embed_block_KNzKkA": {
+          "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/form-embed-block\/2632fe16-c075-4321-a88b-50b567f42507",
+          "settings": {
+            "formId": "<div class=\"klaviyo-form-TrqatQ\"><\/div>"
+          }
+        }
+      },
+      "block_order": [
+        "klaviyo_email_marketing_sms_form_embed_block_KNzKkA"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "icon_with_text_autoplay_nQ9ma6",
+    "icon_with_texts_qnL7r7",
+    "auto_play_video_74VWdG",
+    "custom_liquid_QGfzdq",
+    "video_iE6KYm",
+    "homepage_orderbar_N8F9dN",
+    "icon_with_texts_tPaJad",
+    "featured_collection_J6Nr9n",
+    "featured_collection_jhnYac",
+    "rich_text_8EDKBy",
+    "17191140418da6f007"
+  ]
+}
